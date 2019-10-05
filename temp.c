@@ -6,7 +6,7 @@ void main()
     float celsius,fahrenheit;
     clrscr();
  
-    printf("\n Enter the Temparature in Celsius : ");
+    printf("\n Enter the Temperature in Celsius : ");
     scanf("%f",&celsius);
  
     fahrenheit = (1.8 * celsius) + 32;
